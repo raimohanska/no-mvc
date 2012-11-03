@@ -10,7 +10,7 @@ The pros of using an MVC framework:
 * Enforces certain structure to prevent spaghetti code
 * Gives you a set of helpers for making stuff easier (or at least different)
 
-The cons
+The cons:
 
 * Unnecessary indirection added -> makes the code harder to follow
 * Gets in your way when you want shit done
