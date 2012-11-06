@@ -1,3 +1,5 @@
+![NoMVC](http://drillsoft.fi/ext/no-mvc.png)
+
 The only Javascript MVC framework you need.
 
 Well, at least for me, it seems that whenever I compare the pros and cons of using a particular MVC framework, the cons outweight the pros.
